@@ -1,9 +1,168 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Страница — 1" id="K9feuQ7dF-jCnu2IWgrX">
-    <mxGraphModel dx="1026" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2565" dy="1508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-1" value="Actor" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FEE750;strokeColor=none;fontSize=18;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-2" value="Event" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="190" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-3" value="Command" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#a7c5fc;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="350" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-4" value="Policy" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#da99e6;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="510" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-5" value="External System" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFB3C5;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="660" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-6" value="Read Model" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#b0deb3;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="820" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-7" value="Note" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#CCCCCC;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="980" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-10" value="Клиент" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FEE750;strokeColor=none;fontSize=18;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="240" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-12" value="Крон каждое воскресенье" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FEE750;strokeColor=none;fontSize=18;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="3600" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-15" value="Крон каждый послед&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ний день месяца&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FEE750;strokeColor=none;fontSize=18;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="4120" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-17" value="Подрядчик печенек" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFB3C5;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2481" y="3200" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-18" value="Errors / Problems" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ec4d4e;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1150" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zpBG68E-fnAjGQmCeS8Q-19" target="zpBG68E-fnAjGQmCeS8Q-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-19" value="Happy Cat Box" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFB3C5;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="40" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-20" value="Клиент зареган" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2150" y="40" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-21" value="Задача создана" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2350" y="240" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zpBG68E-fnAjGQmCeS8Q-24" target="zpBG68E-fnAjGQmCeS8Q-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-24" value="Кот-тестировщик зареган" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="40" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zpBG68E-fnAjGQmCeS8Q-27" target="zpBG68E-fnAjGQmCeS8Q-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-27" value="Зарегать клиента в системе" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#a7c5fc;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1948" y="40" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-32" value="Задача выполнена" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="3370" y="240" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-33" value="Задача отменена" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="3370" y="410" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-34" value="Задача провалена" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="3370" y="585" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-35" value="Менеджер" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FEE750;strokeColor=none;fontSize=18;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="820" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-36" value="Тип услуги добавлен" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="820" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-37" value="Воркер подобран" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2710" y="240" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-38" value="Стоимость заказа рассчитана" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2720" y="430" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-39" value="Создано списание денег для клиента" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="3750" y="490" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-40" value="Начисление денег воркеру создано" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="3750" y="705" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-41" value="Штраф воркеру создан" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="3750" y="920" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-42" value="Заказ взят в работу" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="3070" y="2320" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-43" value="Заказ завершен" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="3400" y="2320" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-45" value="Заявка на регистрацию создана" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="2010" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-46" value="Воркер" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FEE750;strokeColor=none;fontSize=18;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="2010" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-47" value="Воркер добавлен в пулл веоркеров" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="2320" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-49" value="Воркер забракован" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="2560" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-50" value="Тест для кота добавлен" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="1000" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-51" value="Тест для вакансии добавлен" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="1380" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-52" value="Тест для вакансии изменен" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="1380" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-53" value="Тест для вакансии удален" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="1590" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-54" value="Тест для кота изменен" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="1000" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-55" value="Тест для кота удален" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="1169" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-57" value="Информация о воркере добавлена" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2650" y="2320" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-60" value="Сотрудник отдела расходников" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FEE750;strokeColor=none;fontSize=18;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="2910" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-61" value="Сотрудник уведомлен о ноовом заказе" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="2910" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-62" value="Заказ выдан" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2700" y="2910" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-65" value="Инвойс клиенту выставлен" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="3600" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-67" value="Инвойс клиента оплачен" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2710" y="3600" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-68" value="Инвойс клиента не оплачен" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2720" y="3800" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-69" value="Инвойс воркера выставлен" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="4120" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-70" value="Инвойс воркера оплачен" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2720" y="4120" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-71" value="Проверка заказа осуществлена" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2620" y="1590" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zpBG68E-fnAjGQmCeS8Q-72" value="Ставка сделана" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#feae57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="2630" y="1810" width="120" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
