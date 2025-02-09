@@ -1,4 +1,4 @@
-# 1_homework
+# 2_homework
 
 Реализация второго домашнего задания курса "Анализ Систем".
 
@@ -6,7 +6,7 @@
 
 ## Структура
 
-- [es.drawio](/2_homework/subdomains.md) - список поддоменов.
+- [Subdomains](/2_homework/subdomains.md) - список поддоменов.
 
 - [Core Domain Chart](https://drive.google.com/file/d/1LshHnBhdv06Y9buvVSgNAmkR3ULrQ97v/view?usp=sharing)
 
@@ -14,6 +14,6 @@
 
 - [Event Storming](https://drive.google.com/file/d/1736NctqPpvRgNwpg1D_ptqF5xu0NGbWM/view?usp=sharing)
 
-- [Architecture description] (/2_homework/arch.md)
+- [Architecture description](/2_homework/arch.md)
 
-- [Architecture] (https://drive.google.com/file/d/1hOR05jKj-MTKdbmyaJBz7qpxuo4O1_Ev/view?usp=sharing)
+- [Architecture](https://drive.google.com/file/d/1hOR05jKj-MTKdbmyaJBz7qpxuo4O1_Ev/view?usp=sharing)
