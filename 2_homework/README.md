@@ -10,9 +10,11 @@
 
 - [Core Domain Chart](https://drive.google.com/file/d/1LshHnBhdv06Y9buvVSgNAmkR3ULrQ97v/view?usp=sharing)
 
-- [Context Mapping](https://drive.google.com/file/d/1Fys1V7KJCkyVGrPNl4QokcdN7DauDWRh/view?usp=sharing)
+- [Context Mapping](https://drive.google.com/file/d/11Ie7S6z4HLKt6_4wVpdPdxBTePJ3i74B/view?usp=sharing)
 
-- [Event Storming](https://drive.google.com/file/d/1736NctqPpvRgNwpg1D_ptqF5xu0NGbWM/view?usp=sharing)
+- [Event Storming](https://drive.google.com/file/d/1hFLrwY9hAEH9n5Z0sYdji07dReUlWhaX/view?usp=sharing)
+
+- [Data model](https://drive.google.com/file/d/10isQoIuOOxUOegx_Wq34yZvT9CFzFYik/view?usp=sharing)
 
 - [Architecture description](/2_homework/arch.md)
 
