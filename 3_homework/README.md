@@ -8,5 +8,6 @@
 
 - [Diagrams](https://drive.google.com/file/d/1RZkJc6Ksp59IQw2zLwuk7l_X2_3SWPUd/view?usp=sharing) - разные диаграммы: матрица стейкхолдеров, контексты, архитектура.
 
-- [Architecture description](/3_homework/arch.md)
+- [Architecture description](/3_homework/description.md)
 
+- [ADR-001](/3_homework/adr-001.md)
